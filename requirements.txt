@@ -1,0 +1,6 @@
+anthropic
+streamlit
+python-docx
+pypdf
+openai
+requests
